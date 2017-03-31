@@ -1,0 +1,9 @@
+<?php
+
+class XFCP_NixFifty_ThreadStencil_XenForo_ControllerPublic_Forum extends XenForo_ControllerPublic_Forum {}
+
+class XFCP_NixFifty_ThreadStencil_XenForo_ControllerAdmin_Forum extends XenForo_ControllerAdmin_Forum {}
+
+class XFCP_NixFifty_ThreadStencil_XenForo_ViewAdmin_Forum_Edit extends XenForo_ViewAdmin_Forum_Edit {}
+
+class XFCP_NixFifty_ThreadStencil_XenForo_DataWriter_Forum extends XenForo_DataWriter_Forum {}
